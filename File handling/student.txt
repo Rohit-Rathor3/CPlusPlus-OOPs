@@ -1,0 +1,15 @@
+Rohit Rathor
+20
+5
+Name :- Rishab Jain
+Age :- 20
+Contact No :- 89569835648
+Name :- Pramod Rajak
+Age :- 22
+Contact No :- 9856743856
+Name :- Pradeep Mandelya
+Age :- 20
+Contact No :- 9575907935
+Name :- manish shrma
+Age :- 12
+Contact No :- 2343525
